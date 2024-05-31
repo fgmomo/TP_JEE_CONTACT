@@ -1,0 +1,3 @@
+myclass\Contact.class
+com\mycompany\contacts\app\ContactServlet.class
+com\mycompany\contacts\app\DeleteContactServlet.class
